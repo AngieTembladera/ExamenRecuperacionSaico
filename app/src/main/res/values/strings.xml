@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LaboratorioCalificadoSustitutorio</string>
+    <string name="titulo">Titulo</string>
+    <string name="cuerpo">Cuerpo</string>
+    <string name="sms_body_key">sms_body</string>
+    <string name="mailto_key">mailto</string>
+</resources>
